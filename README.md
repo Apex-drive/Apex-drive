@@ -14,14 +14,6 @@ Machine Learning Engineer, 15 years old, based in Russia.
 
 ---
 
-### 2026 Goals
-
-- Study LLM architectures and training pipelines
-- Begin development of custom LLM models
-- Achieve Junior ML Engineer competency
-
----
-
 ### Statistics
 
 ![Apex-drive's GitHub stats](https://github-stats-extended.vercel.app/api?username=Apex-drive&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide=issues,contribs)
