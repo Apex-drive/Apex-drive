@@ -23,3 +23,7 @@ ML Engineer, 15 years old, based in Russia. Building applications with Python. P
 ### Collaboration
 
 Open to connecting with developers, researchers, and ML enthusiasts.
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Shark1ch) 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/waw_shark1)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Apex-drive)
