@@ -4,7 +4,7 @@
 
 ## About
 
-ML Engineer, 15 years old, based in Russia. Building applications with Python. Passionate about machine learning and backend development.
+ML Engineer, 15 years old. Building applications with Python. Passionate about machine learning and backend development.
 
 ---
 
