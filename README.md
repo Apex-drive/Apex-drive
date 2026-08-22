@@ -10,7 +10,7 @@ Junior ML Engineer. Specialize in Python development for ML and backend systems.
 
 ### Technology Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,git,linux,vscode,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,git,linux,vscode,github&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -18,6 +18,7 @@ Junior ML Engineer. Specialize in Python development for ML and backend systems.
 
 ![Apex-drive's GitHub stats](https://github-stats-extended.vercel.app/api?username=Apex-drive&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide=issues,contribs)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Apex-drive&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+
 ---
 
 ### Collaboration
