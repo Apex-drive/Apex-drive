@@ -4,7 +4,7 @@
 
 ## About
 
-ML Engineer, 15 years old. Building applications with Python. Passionate about machine learning and backend development.
+Junior ML Engineer. Specialize in Python development for ML and backend systems. Work with data pipelines, model versioning, and deployment automation. Building reliable infrastructure for AI-driven applications.
 
 ---
 
