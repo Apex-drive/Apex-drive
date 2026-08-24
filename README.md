@@ -10,7 +10,7 @@ Junior ML Engineer. Specialize in Python development for ML and backend systems.
 
 ### Technology Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,git,linux,vscode,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,pytorch,python,linux,vscode,github,git&theme=dark)](https://skillicons.dev)
 
 ---
 
