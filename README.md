@@ -25,8 +25,8 @@ Hi, i'm Michail. I'm Junior ML Engineer. Specialize in Python development for ML
 ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Apex-drive&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Apex-drive&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Apex-drive&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Apex-drive&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9)
 
 ---
 
