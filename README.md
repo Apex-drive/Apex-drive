@@ -2,29 +2,45 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F2937&height=200&section=header&text=Apex-drive&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" />
 </p>
 
-## About
-
-Junior ML Engineer. Specialize in Python development for ML and backend systems. Work with data pipelines, model versioning, and deployment automation. Building reliable infrastructure for AI-driven applications.
-
----
-
-### Technology Stack
-
-[![My Skills](https://skillicons.dev/icons?i=postgresql,pytorch,python,linux,vscode,github,git&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Apex-drive&style=flat-square&color=58A6FF" alt="Profile views" />
+  <img src="https://img.shields.io/badge/ML_Engineer-0D1117?style=flat-square&logo=python&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Focus-LLM_%26_Backend-0D1117?style=flat-square&logo=ai&logoColor=58A6FF" />
+</p>
 
 ---
 
-### Statistics
+# Hi 👋
 
-![Apex-drive's GitHub stats](https://github-stats-extended.vercel.app/api?username=Apex-drive&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide=issues,contribs)
+Hi, i'm Michail. I'm Junior ML Engineer. Specialize in Python development for ML and backend systems. Work with data pipelines, model versioning, and deployment automation. Building reliable infrastructure for AI-driven applications.
+
+---
+
+## 🛠️ My favorite tools and technologies
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,postgresql,linux,docker,git,github,vscode&theme=dark"/>
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Apex-drive&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Apex-drive&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Apex-drive&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
 
 ---
 
-### Collaboration
+# 🤝 Collaboration
 
-Open to connecting with developers, researchers, and ML enthusiasts.
+Open to collaborations, discussions, and connecting with fellow developers and ML enthusiasts!
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Shark1ch) 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/waw_shark1)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Apex-drive)
+
+<a href="https://t.me/Shark1ch">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&border_color=58A6FF&border_radius=8" />
+</a>
+<a href="https://discord.gg/waw_shark1">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&border_color=58A6FF&border_radius=8" />
+</a>
+<a href="https://github.com/Apex-drive">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&border_color=58A6FF&border_radius=8" />
+</a>
