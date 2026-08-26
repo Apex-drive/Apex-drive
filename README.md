@@ -18,7 +18,7 @@ Hi, i'm Michail. I'm Junior ML Engineer. Specialize in Python development for ML
 
 ## 🛠️ My favorite tools and technologies
 
-<img src="https://skillicons.dev/icons?i=pytorch,postgresql,python,vscode,linux,github,git,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=pytorch,postgresql,python,bash,vscode,linux,github,git,docker&theme=dark"/>
 
 ---
 
