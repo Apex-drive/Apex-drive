@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Apex-drive&style=flat-square&color=58A6FF" alt="Profile views" />
   <img src="https://img.shields.io/badge/ML_Engineer-0D1117?style=flat-square&logo=python&logoColor=58A6FF" />
   <img src="https://img.shields.io/badge/Focus-LLM_%26_Backend-0D1117?style=flat-square&logo=ai&logoColor=58A6FF" />
 </p>
